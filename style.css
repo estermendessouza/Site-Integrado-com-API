@@ -1,0 +1,21 @@
+header{
+  background-color: #EB932F;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+header li{
+  padding: 10px;
+}
+
+.img-fluid{
+  height: 200px;
+}
+
+ h1,h3{
+  color: #EB932F;
+}
+
+.repositorios a{
+  color: #EB932F;
+}
